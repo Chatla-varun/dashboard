@@ -1,0 +1,19 @@
+.app-container {
+  font-family: Arial, sans-serif;
+}
+
+.content-container {
+  margin: auto;
+  padding: 50px;
+}
+
+.issues-container {
+  margin: auto;
+}
+
+.ticket-container {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 12px;
+  margin-bottom: 16px;
+}
